@@ -21,7 +21,7 @@
     };
 
     javascript = {
-      npm.enable = true;
+      enable = true;
       pnpm.enable = true;
       pnpm.install.enable = true;
     };
